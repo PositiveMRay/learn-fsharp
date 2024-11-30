@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dedIj1qaI+k=",
+  "success": true,
+  "projectFilePath": "/home/melvin/Documents/Projects/Learn/FSharp/learn-fsharp/learn-fsharp.fsproj",
+  "expectedPackageFiles": [
+    "/home/melvin/.nuget/packages/fsharp.core/8.0.403/fsharp.core.8.0.403.nupkg.sha512"
+  ],
+  "logs": []
+}
